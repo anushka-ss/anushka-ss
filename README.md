@@ -82,16 +82,12 @@ Hands-on notebooks covering core PySpark and DataFrame operations, built while l
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anushka-ss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-ss&layout=compact&theme=radical&hide_border=true&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anushka-ss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-ss&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" width="42%" />
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=anushka-ss&theme=radical&hide_border=true" width="65%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushka-ss&theme=react-dark&hide_border=true" width="90%" />
 </div>
 
 <br>
